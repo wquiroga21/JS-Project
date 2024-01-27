@@ -18,9 +18,9 @@ The core of the application was built with JavaScript, leveraging the local stor
 
 In the course of developing this application, the following websites proved invaluable for their resources, tutorials, and community support:
 
-* [Mozilla Developer Network (MDN) Web Docs]()
-* [Stack Overflow](https://stackoverflow.com/)
-* [W3Schools](https://www.w3schools.com/)
+* [MDN Web Docs - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+* [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)
 
 # Future Work
 
