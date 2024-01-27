@@ -2,7 +2,7 @@
 
 As a software engineering major, I'm constantly seeking opportunities to enhance my skills and tackle challenging problems. My latest project, a dynamic to-do list application, is part of my developmental journey. This application has helped me to a step forward in my journey as a developer. It's designed to handle everyday tasks and events with ease, allowing users to add, organize, and track their activities efficiently. The software stands out with its intuitive day-wise segregation and prioritizing options, showcasing my ability to implement complex functionalities in JavaScript.
 
-[Software Demo Video]([http://youtube.link.goes.here/](https://youtu.be/857ODHj6SiU))
+[Software Demo Video]([http://youtube.link.goes.here/](https://youtu.be/857ODHj6SiU)])
 
 # Development Environment
 
